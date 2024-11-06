@@ -1,0 +1,48 @@
+snp_id	gene	chr	pos	ref_allele	alt_allele	effect_allele	brief_pheno_description	detailed_pheno_description	included_in_1240k_array
+rs307355	TAS1R3	1	1265154	T	C	T	taste response	T associated with reduced sucrose sensitivity	No
+rs35744813	TAS1R3	1	1265460	T	C	T	taste response	T associated with reduced sucrose sensitivity	No
+rs307377	TAS1R3	1	1269554	T	C	T	taste response	allele T associated with extra tasting ability	No
+rs17646946	TCHH	1	152062767	G	A	A	hair curliness, gene defect ->uncombale hair syndrome	hair curliness, allele A associated with reduced curliness with factor 0.29 (0-5), AA -2.5 factor less curly	Yes
+rs1541255	ATP2B4	1	203652141	G	A	G	MalariaRelated	GG - lower parasitaemia in malaria patients	No
+rs3827760	EDAR	2	109513601	A	.	G	skinpigmentation		Yes
+rs41525747	LCT	2	136608643	G	.	C	lactasepersistence		Yes
+rs4988235	MCM6	2	136608646	G	.	A	lactasepersistence		Yes
+rs41380347	LCT	2	136608651	A	.	C	lactasepersistence		Yes
+rs3791783	MSTN	2	190924163	T	C	T	obesity-related: myostatin-related muscle hypertrophy	associated with obesity and fat mass variation in CHB	Yes
+rs6821591	PPARGC1A	4	23797000	C	T	C	 involved in controlling blood pressure, regulating cellular cholesterol homoeostasis, and the development of obesity	CC variants associated with risk of early onset Parkison disease	No
+rs8192678	PPARGC1A	4	23815662	C	T	T	 involved in controlling blood pressure, regulating cellular cholesterol homoeostasis, and the development of obesity	T associated with increased blood pressure, type 2 diabete etc.	Yes
+rs1229984	ADH1B	4	100239319	T	C	T	AsianFlush	allele G associated with less flush after alcohol consumption	Yes
+rs3811801	ADH1B	4	100244319	G	A	A	AsianFlush		No
+rs1050152	SLC22A4	5	131676320	C	T	T	Crohn' disease		Yes
+rs1042713	ADRB2	5	148206440	G	A	A	Asthma, BMI quantitative trait locus 11	G - higher total cholesterol, LDL cholesterol levels	Yes
+rs2760118	ALDH5A1	6	24503590	C	.	?	not specified, Succinate-semialdehyde dehydrogenase deficiency		No
+rs1800795	LOC541472	7	22766645	C	.	G, C	promoter of IL6 gene, allele C produce less IL6 then G allele, affecting the levels mde of cytokine, known as IL6-174 polymorphism	high risk with obesity-related metabolic disorders after heavy exercise (PMID 17998015])	Yes
+rs6949152	NRF_I	7	129286436	A	.	?	endurance athlete status		Yes
+rs2402970	NRF_I	7	129379801	C	.	?	endurance athlete status		Yes
+rs10246939	TAS2R38	7	141672604	T	C	C	bitterness taste	C - dorminant tasting allele, T- non-tasting allele, C/T can taste bitter	Yes
+rs1726866	TAS2R38	7	141672705	G	A	C	bitterness taste	C - dorminant tasting allele, T- non-tasting allele, C/T can taste bitter	Yes
+rs713598	TAS2R38	7	141673345	C	G	C	Phenylthiocarbamide tasting	C - dorminant tasting allele, G- non-tasting allele, C/G can taste bitter	Yes
+rs756853	HDAC9	7	18890000	G	A	A	male-pattern baldness	associated with male-pattern baldness	Yes
+rs2249817	HDAC9	7	18896011	A	.	A	male-pattern baldness	associated with male-pattern baldness	Yes
+rs1495741	NAT2	8	18272881	G	A	G	NAT2 acetylation phenotypes	slow metabolizer	Yes
+rs2153271	BNC2	9	16864521	C	T	C	frecking	C - 0.4 unit decreased freckling	Yes
+rs8176746	ABO	9	136131322	G	.	G	blood type	associated with blood type A	Yes
+rs657152	ABO	9	136139265	C	.	A	Covid-19‚induced respiratory failure		Yes
+rs4751995	PRLP2	10	118397884	A	G	G	plant-based diet	PRLP2 encodes a lipase that hydrolyzes galactolipids, the main components of plant membrane lipids. Absence of effective allele may correspond to a low plant-fat digestion ability 	Yes
+rs174546	FADS1	11	61569830	C	T	T	plasma fatty acid concentrations	The effective allele presents frequently in modern Europeans and Early Farmers. The frequency of effective allele is estimated to be between ~20%-40% in the past 12,000 years in Early famers in reference27	Yes
+rs1815739	ACTN3	11	66328095	T	C	C, T	muscle performance	C/T has mixed muscle likely sprinter. allele C associated with sprinters, T ~ endurance athletes	Yes
+rs10831496	TYR	11	88557991	A	.	G	tanning sensitivity		Yes
+rs1042602	TYR	11	88911696	C	A	A	A-absence of freckles	C/A none. allele A/A is associated with absence of freckles	Yes
+rs8031031	NRF_II_GABPB2	15	50597324	C	.	T?	athlete'sl endurance capacity 	CC - common in clinvar	Yes
+rs7181866	NRF_II_GABPB2	15	50610792	A	.	G	athlete'sl endurance capacity 	AG - (G) possibly higher endurance athletic capacity	Yes
+rs12594956	NRF_II_GABPB2	15	50621834	C	.	A	athlete'sl endurance capacity 	AA - higher endurance athletic capacity	Yes
+rs9939609	FTO	16	53820527	T	A	A	obesity related. "Fat Gene"	Fat mass and obesity associated FTO gene, associated with type2 diabetes. 	Yes
+rs1805007	MC1R	16	89986117	C	.	T	skin/hair/eye pigmentation	T - red hair, high melanoma risk, TT - increased reponses for anesthetics	Yes
+rs1805008	MC1R	16	89986144	C	.	T	skin/hair/eye pigmentation	T - red hair	Yes
+rs1805009	MC1R	16	89986546	G	.	C	skin/hair/eye pigmentation	C - red hair, high Melanoma risk	Yes
+rs2497938	SNPXBR102	X	66563018	T	.	T	male-pattern baldness	male-pattern baldness	Yes
+rs2515904	G6PD	X	153762771	G	.	C	MalariaResistance		Yes
+rs1050829	G6PD	X	153763492	T	.	C	MalariaResistance		Yes
+rs1050828	G6PD	X	153764217	C	.	T	MalariaResistance		Yes
+rs762516	G6PD	X	153764663	C	.	T	MalariaResistance		Yes
+rs149902811	G6PD	X	153773160	A	.	C	MalariaResistance		Yes

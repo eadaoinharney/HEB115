@@ -1,0 +1,148 @@
+snp_id	gene	chr	pos	ref_allele	alt_allele	effect_allele	brief_pheno_description	detailed_pheno_description	included_in_1240k_array
+rs307355	TAS1R3	1	1265154	T	C	T	taste response	T associated with reduced sucrose sensitivity	No
+rs35744813	TAS1R3	1	1265460	T	C	T	taste response	T associated with reduced sucrose sensitivity	No
+rs76755863	TAS1R3	1	1266738	G	.	A	taste response		No
+rs307377	TAS1R3	1	1269554	T	C	T	taste response	allele T associated with extra tasting ability	No
+rs34160967	TAS1R1	1	6635306	G	.	A	taste response	AA/GA has lower taste intensity	No
+rs17646946	TCHH	1	152062767	G	A	A	hair curliness, gene defect ->uncombale hair syndrome	hair curliness, allele A associated with reduced curliness with factor 0.29 (0-5), AA -2.5 factor less curly	Yes
+rs1541255	ATP2B4	1	203652141	G	A	G	MalariaRelated	GG - lower parasitaemia in malaria patients	No
+rs12097901	EGLN1	1	231557255	C	.	G	highaltitudeAdaptation		Yes
+rs186996510	EGLN1	1	231557623	G	.	C	highaltitudeAdaptation		Yes
+rs73926263	EPAS1	2	46568680	A	.	G	highaltitudeAdaptation		Yes
+rs73926264	EPAS1	2	46569017	A	.	G	highaltitudeAdaptation		Yes
+rs73926265	EPAS1	2	46569770	G	.	A	highaltitudeAdaptation		Yes
+rs55981512	EPAS1	2	46570342	G	.	A	highaltitudeAdaptation		Yes
+rs149306391	EPAS1	2	46571017	C	.	G	highaltitudeAdaptation		Yes
+2:46571435	EPAS1	2	46571435	G	.	C	highaltitudeAdaptation		Yes
+rs188801636	EPAS1	2	46577251	T	.	C	highaltitudeAdaptation		Yes
+2:46579689	EPAS1	2	46579689	A	.	G	highaltitudeAdaptation		Yes
+rs189807021	EPAS1	2	46583581	G	.	A	highaltitudeAdaptation		Yes
+2:46584859	EPAS1	2	46584859	A	.	G	highaltitudeAdaptation		Yes
+rs150877473	EPAS1	2	46588019	C	.	G	highaltitudeAdaptation		Yes
+rs142826801	EPAS1	2	46588331	G	.	C	highaltitudeAdaptation		Yes
+rs74898705	EPAS1	2	46589032	C	.	T	highaltitudeAdaptation		Yes
+rs141366568	EPAS1	2	46594122	A	.	G	highaltitudeAdaptation		Yes
+rs116062164	EPAS1	2	46597756	A	.	C	highaltitudeAdaptation		Yes
+rs141426873	EPAS1	2	46598025	C	.	G	highaltitudeAdaptation		Yes
+rs116611511	EPAS1	2	46600030	A	.	G	highaltitudeAdaptation		Yes
+2:46600358	EPAS1	2	46600358	A	.	G	highaltitudeAdaptation		Yes
+rs3827760	EDAR	2	109513601	A	.	G	skinpigmentation		Yes
+snp_2_136608574	LCT	2	136608574	C	.	T	lactasepersistence		Yes
+snp_2_136608642	LCT	2	136608642	A	.	T	lactasepersistence		Yes
+rs41525747	LCT	2	136608643	G	.	C	lactasepersistence		Yes
+rs4988236	LCT	2	136608644	G	.	A	lactasepersistence		Yes
+rs4988235	MCM6	2	136608646	G	.	A	lactasepersistence		Yes
+rs41456145	LCT	2	136608649	A	.	G	lactasepersistence		Yes
+rs41380347	LCT	2	136608651	A	.	C	lactasepersistence		Yes
+rs145946881	LCT	2	136608746	C	.	G	lactasepersistence		Yes
+rs182549	MCM6	2	136616754	C	.	T	lactasepersistence		No
+rs3791783	MSTN	2	190924163	T	C	T	obesity-related: myostatin-related muscle hypertrophy	associated with obesity and fat mass variation in CHB	Yes
+rs35044562	COVID19	3	45909024	A	.	G	Covid-19‚induced respiratory failure 		No
+rs73064425	COVID19	3	45901089	C	.	T	Covid-19‚induced respiratory failure 		No
+rs34326463	COVID19	3	45899651	A	.	G	Covid-19‚induced respiratory failure 		No
+rs13081482	COVID19	3	45908116	A	.	T	Covid-19‚induced respiratory failure 		No
+rs35508621	COVID19	3	45880481	T	.	C	Covid-19‚induced respiratory failure 		No
+rs10490770	COVID19	3	45864732	T	.	C	Covid-19‚induced respiratory failure 		Yes
+rs71325088	COVID19	3	45862952	T	.	C	Covid-19‚induced respiratory failure 		No
+rs13078854	COVID19	3	45861932	G	.	A	Covid-19‚induced respiratory failure 		No
+rs17713054	COVID19	3	45859651	G	.	A	Covid-19‚induced respiratory failure 		No
+rs67959919	COVID19	3	45871908	G	.	A	Covid-19‚induced respiratory failure 		No
+rs34288077	COVID19	3	45888690	A	.	G	Covid-19‚induced respiratory failure 		No
+rs35081325	COVID19	3	45889921	A	.	T	Covid-19‚induced respiratory failure 		No
+rs35624553	COVID19	3	45867440	A	.	G	Covid-19‚induced respiratory failure 		No
+rs6821591	PPARGC1A	4	23797000	C	T	C	 involved in controlling blood pressure, regulating cellular cholesterol homoeostasis, and the development of obesity	CC variants associated with risk of early onset Parkison disease	No
+rs8192678	PPARGC1A	4	23815662	C	T	T	 involved in controlling blood pressure, regulating cellular cholesterol homoeostasis, and the development of obesity	T associated with increased blood pressure, type 2 diabete etc.	Yes
+rs1229984	ADH1B	4	100239319	T	C	T	AsianFlush	allele G associated with less flush after alcohol consumption	Yes
+rs3811801	ADH1B	4	100244319	G	A	A	AsianFlush		No
+rs35395	SLC45A2	5	33948589	T	C	C	skinpigmentation	C allele associated with light skin colour	No
+rs16891982	SLC45A2	5	33951693	C	G	G	skinpigmentation	G allele associated with light skin colour	Yes
+rs28777	SLC45A2	5	33958959	C	A	C	skinpigmentation	A/A common in complete genomics	Yes
+rs26722	SLC45A2	5	33963870	C	.	T	skinpigmentation	T associated with darker skin, eye, hair color	Yes
+rs1050152	SLC22A4	5	131676320	C	T	T	Crohn' disease		Yes
+rs1042713	ADRB2	5	148206440	G	A	A	Asthma, BMI quantitative trait locus 11	G - higher total cholesterol, LDL cholesterol levels	Yes
+rs12203592	IRF4	6	396321	C	.	T	skin/hair/eye pigmentation		Yes
+rs4959270	EXOC2	6	457748	C	A	A	hair color	associated with black hair color [PMID 21197618] 	Yes
+rs2760118	ALDH5A1	6	24503590	C	.	?	not specified¬†Succinate-semialdehyde dehydrogenase deficiency		No
+rs1800795	LOC541472	7	22766645	C	.	G, C	promoter of IL6 gene, allele C produce less IL6 then G allele, affecting the levels mde of cytokine, known as IL6-174 polymorphism	high risk with obesity-related metabolic disorders after heavy exercise (PMID 17998015])	Yes
+rs6949152	NRF_I	7	129286436	A	.	?	endurance athlete status		Yes
+rs2402970	NRF_I	7	129379801	C	.	?	endurance athlete status		Yes
+rs10246939	TAS2R38	7	141672604	T	C	C	bitterness taste	C - dorminant tasting allele, T- non-tasting allele, C/T can taste bitter	Yes
+rs1726866	TAS2R38	7	141672705	G	A	C	bitterness taste	C - dorminant tasting allele, T- non-tasting allele, C/T can taste bitter	Yes
+rs713598	TAS2R38	7	141673345	C	G	C	Phenylthiocarbamide tasting	C - dorminant tasting allele, G- non-tasting allele, C/G can taste bitter	Yes
+rs756853	HDAC9	7	18890000	G	A	A	male-pattern baldness	associated with male-pattern baldness	Yes
+rs2249817	HDAC9	7	18896011	A	.	A	male-pattern baldness	associated with male-pattern baldness	Yes
+rs1495741	NAT2	8	18272881	G	A	G	NAT2 acetylation phenotypes	slow metabolizer	Yes
+rs1408799	TYRP1	9	12672097	T	C	C	skin/hair/eye pigmentation, blue vs green eyes	allele C associated with eye color, T - high chance of green eye given CC at rs12913832	Yes
+rs2153271	BNC2	9	16864521	C	T	C	frecking	C - 0.4 unit decreased freckling	Yes
+rs8176746	ABO	9	136131322	G	.	G	blood type	associated with blood type A	Yes
+rs657152¬†	ABO	9	136139265	C	.	A	Covid-19‚Äìinduced respiratory failure		Yes
+rs4751995	PRLP2	10	118397884	A	G	G	plant-based diet	PRLP2 encodes a lipase that hydrolyzes galactolipids, the main components of plant membrane lipids. Absence of effective allele may correspond to a low plant-fat digestion ability 	Yes
+rs174546	FADS1	11	61569830	C	T	T	plasma fatty acid concentrations	The effective allele presents frequently in modern Europeans and Early Farmers. The frequency of effective allele is estimated to be between ~20%-40% in the past 12,000 years in Early famers in reference27	Yes
+rs1815739	ACTN3	11	66328095	T	C	C, T	muscle performance	C/T has mixed muscle likely sprinter. allele C associated with sprinters, T ~ endurance athletes	Yes
+rs3829241	TPCN2	11	68855363	G	A	A	blonde vs brown hair	allele A is significantly associated with blond hair	Yes
+rs10831496	TYR	11	88557991	A	.	G	tanning sensitivity		Yes
+rs1042602	TYR	11	88911696	C	A	A	A-absence of freckles	C/A none. allele A/A is associated with absence of freckles	Yes
+rs642742	KITLG	12	89299746	C	T	C	skinpigmentation	skin color related. "replacement of AA with GG in the rs642742 SNP may account for a lightening of a person's skin by 6 to 7 melanin units."	Yes
+rs12821256	KITLG	12	89328335	T	.	C	hair color		Yes
+rs2031526	DCT	13	95100841	A	G	A	skinpigmentation	pigmentation related	No
+rs12896399	SLC24A4	14	92773663	G	T	C	eye/hair color, TT Lighter hair color & blue eyes more likely	hair color related. T/T asssociated with lighter hair &blue eyes more likely	Yes
+rs2402130	SLC24A4	14	92801203	G	A	G	blue vs. green color, blond vs. brown hair		Yes
+rs1545397	OCA2	15	28187772	A	.	T	skin/hair/eye pigmentation	T/T - light skin	Yes
+rs1800414	OCA2	15	28197037	T	.	C	skin/hair/eye pigmentation	C - light skin	Yes
+rs1800407	OCA2	15	28230318	C	.	T	skin/hair/eye pigmentation	A - dominant allele for green/hazel eye in some Caucasian	Yes
+rs1800404	OCA2	15	28235773	C	T	T	skin/hair/eye pigmentation	T - light skin	Yes
+rs12913832	HERC2	15	28365618	A	.	G, A	skin/hair/eye pigmentation	AA - brown eye 80% prob, AG -brown, GG - blue 99%	Yes
+rs7183877	HERC2	15	28365733	C	.	G, C	skin/hair/eye pigmentation	TT - blue, CC - possibly brown 	Yes
+rs1667394	HERC2	15	28530182	C	T	C, A	skin/hair/eye pigmentation	C - low tan response, A - blond hair, blue eyes	Yes
+rs4424881	APBA2	15	29261716	C	.	C, T	skin/hair/eye pigmentation	C - light, T - darker skin	Yes
+rs1426654	SLC24A5	15	48426484	A	.	A	skin/hair/eye pigmentation	light skin	Yes
+rs8031031	NRF_II_GABPB2	15	50597324	C	.	T?	athlete'sl endurance capacity 	CC - common in clinvar	Yes
+rs7181866	NRF_II_GABPB2	15	50610792	A	.	G	athlete'sl endurance capacity 	AG - (G) possibly higher endurance athletic capacity	Yes
+rs12594956	NRF_II_GABPB2	15	50621834	C	.	A	athlete'sl endurance capacity 	AA - higher endurance athletic capacity	Yes
+rs9939609	FTO	16	53820527	T	A	A	obesity related. "Fat Gene"	Fat mass and obesity associated FTO gene, associated with type2 diabetes. 	Yes
+rs1805005	MC1R	16	89985844	G	.	T	skin/hair/eye pigmentation	GG - common in clinvar, T - light blond hair	Yes
+rs1805006	MC1R	16	89985918	C	.	A	skin/hair/eye pigmentation	CC - common in clinvar, A - red hair, high Melanoma risk	Yes
+rs2228479	MC1R	16	89985940	G	.	A	skin/hair/eye pigmentation	GG - common in clinvar, A - red/blond hair, poor tanning	Yes
+rs11547464	MC1R	16	89986091	G	.	A	skin/hair/eye pigmentation	AA - red hair, AG - red hair carrier	Yes
+rs1805007	MC1R	16	89986117	C	.	T	skin/hair/eye pigmentation	T - red hair, high melanoma risk, TT - increased reponses for anesthetics	Yes
+rs1110400	MC1R	16	89986130	T	.	C	skin/hair/eye pigmentation		Yes
+rs1805008	MC1R	16	89986144	C	.	T	skin/hair/eye pigmentation	T - red hair	Yes
+rs885479	MC1R	16	89986154	G	.	A	skin/hair/eye pigmentation		Yes
+rs1805009	MC1R	16	89986546	G	.	C	skin/hair/eye pigmentation	C - red hair, high Melanoma risk	Yes
+rs2228478	MC1R	16	89986608	A	.	G	skin/hair/eye pigmentation		No
+rs6119471	ASIP	20	32785212	C	.	G	skin/hair/eye pigmentation	GG - maybe brown eye, conditional on AA/AG at rs12913832	Yes
+rs6058017	ASIP	20	32856998	A	.	G	skin/hair/eye pigmentation	common in clinvar	Yes
+rs2378249	ASIP	20	33218090	G	A	G	skin/hair/eye pigmentation		Yes
+rs2497938	SNPXBR102	X	66563018	T	.	T	male-pattern baldness	male-pattern baldness	Yes
+rs3092945	CD40LG	X	135729609	T	.	C	MalariaResistance		No
+rs72554664	G6PD	X	153760472	C	.	T	MalariaResistance		No
+rs72554665	G6PD	X	153760484	C	.	A	MalariaResistance		No
+rs398123546	G6PD	X	153760605	G	.	A	MalariaResistance		No
+rs137852317	G6PD	X	153760626	C	.	T	MalariaResistance		No
+rs137852336	G6PD	X	153760840	C	.	T	MalariaResistance		No
+rs137852335	G6PD	X	153760889	C	.	G	MalariaResistance		No
+rs137852316	G6PD	X	153760891	C	.	T	MalariaResistance		No
+rs137852334	G6PD	X	153760910	G	.	A	MalariaResistance		No
+rs387906468	G6PD	X	153760967	C	.	T	MalariaResistance		No
+rs137852329	G6PD	X	153760980	G	.	T	MalariaResistance		No
+rs137852345	G6PD	X	153760987	G	.	A	MalariaResistance		No
+rs34193178	G6PD	X	153761160	C	.	G	MalariaResistance		No
+rs5030869	G6PD	X	153761205	C	.	T	MalariaResistance		No
+rs76723693	G6PD	X	153761240	A	.	G	MalariaResistance		No
+rs137852347	G6PD	X	153761244	A	.	G	MalariaResistance		No
+rs137852327	G6PD	X	153761337	C	.	T	MalariaResistance		No
+rs137852318	G6PD	X	153761811	C	.	G	MalariaResistance		No
+rs137852346	G6PD	X	153761849	C	.	T	MalariaResistance		No
+rs137852330	G6PD	X	153762605	G	.	A	MalariaResistance		No
+rs5030868	G6PD	X	153762634	G	.	A	MalariaResistance		No
+rs267606836	G6PD	X	153762653	G	.	A	MalariaResistance		No
+rs5030872	G6PD	X	153762655	T	.	A	MalariaResistance		No
+rs137852331	G6PD	X	153762704	T	.	C	MalariaResistance		No
+rs2515904	G6PD	X	153762771	G	.	C	MalariaResistance		Yes
+rs78365220	G6PD	X	153763485	A	.	G	MalariaResistance		No
+rs1050829	G6PD	X	153763492	T	.	C	MalariaResistance		Yes
+rs1050828	G6PD	X	153764217	C	.	T	MalariaResistance		Yes
+rs76645461	G6PD	X	153764371	A	.	G	MalariaResistance		No
+rs762516	G6PD	X	153764663	C	.	T	MalariaResistance		Yes
+rs149902811	G6PD	X	153773160	A	.	C	MalariaResistance		Yes
+rs398123552	G6PD	X	153774273	A	.	C	MalariaResistance		No
